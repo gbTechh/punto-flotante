@@ -67,7 +67,6 @@ int main() {
     std::cout << "Ingrese el segundo número en punto flotante: ";
     std::cin >> num2;
 
-    std::cout << "Multiplicación emulada de los números ingresados: " << multiplyFloats(num1, num2) << std::endl;
     std::cout << "Resultado real de la multiplicación: " << num1 * num2 << std::endl;
 
     std::cout << "Bits del primer número en punto flotante: ";
